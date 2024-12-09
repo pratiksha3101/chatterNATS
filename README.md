@@ -4,7 +4,7 @@
 # **ChatterNATS: A Fun CLI Chat Application Powered by NATS JetStream 🎉**
 
 **ChatterNATS** is a lightweight, real-time chat application built with Go and NATS JetStream. Whether you're looking to
-dive into messaging systems, explore distributed architecture, or just enjoy coding something interactive, **ChatterNATS
+dive into messaging systems, explore distributed architecture, or justt enjoy coding something interactive, **ChatterNATS
 ** is the perfect fun and engaging project!
 
 ---
